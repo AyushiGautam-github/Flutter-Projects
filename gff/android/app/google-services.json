@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534853767437",
+    "project_id": "grabieff-b6ee5",
+    "storage_bucket": "grabieff-b6ee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534853767437:android:66a2f13635399410f0e044",
+        "android_client_info": {
+          "package_name": "ayushigautam.com.gff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWnBgblsFAqh8edIArEg2w6ztZ2AJseY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

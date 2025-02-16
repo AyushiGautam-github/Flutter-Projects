@@ -13,6 +13,8 @@ class WeatherModel {
     return weatherdata;
   }
 
+
+
   Future<dynamic> getlocationWeather() async{
       location lc=location();
       await lc.getloc();
